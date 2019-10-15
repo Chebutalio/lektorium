@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'Roboto Condensed', sans-serif;
-    src: url('/font/RobotoCondensed-Regular.ttf') format('truetype');
+    src: url('font/RobotoCondensed-Regular.ttf') format('truetype');
 }
 
 .container {
@@ -45,7 +45,7 @@ a {
 
 .arrows a::before {
     content: '';
-    background-image: url(/icons/arrow-white.png);
+    background-image: url(icons/arrow-white.png);
     background-position: center center;
     background-size: cover;
     width: 100px;
@@ -290,7 +290,7 @@ header {
 .fondue-section {
     display: flex;
     flex-basis: 53%;
-    background-image: url(/img/lamp.jpg);
+    background-image: url(img/lamp.jpg);
     background-repeat: no-repeat;
     background-position: 90% 50%;
     background-color: fff;
@@ -398,7 +398,7 @@ header {
 
 .two-chairs-section {
     flex-basis: 70%;
-    background: url(/img/armchairs.jpg) no-repeat #eaeaea;
+    background: url(img/armchairs.jpg) no-repeat #eaeaea;
     background-position: 20% 70%;
     height: 465px;
 }
@@ -456,7 +456,7 @@ header {
 }
 
 .potter-section {
-    background: url(/img/potter.jpg) no-repeat #dfe0d9;
+    background: url(img/potter.jpg) no-repeat #dfe0d9;
     background-position: 100% 50%;
     background-size: 55%;
     height: 200px;
@@ -507,7 +507,7 @@ header {
 }
 
 .tabano-section {
-    background: url(/img/green-chair.jpg) no-repeat #f7f7f3;
+    background: url(img/green-chair.jpg) no-repeat #f7f7f3;
     background-position: 50% -10%;
     height: 465px;
 }
@@ -556,7 +556,7 @@ header {
 }
 
 .fiji-section {
-    background: url(/img/fiji.jpg) no-repeat #fff;
+    background: url(img/fiji.jpg) no-repeat #fff;
     background-position: 10% 50%;
     height: 200px;
 }
@@ -606,7 +606,7 @@ header {
 
 .sesann-section {
     flex-basis: 44%;
-    background: url(/img/sesann.jpg) no-repeat #fcfcfc;
+    background: url(img/sesann.jpg) no-repeat #fcfcfc;
     background-position: 50% 15%;
     height: 300px;
 }
@@ -656,7 +656,7 @@ header {
 
 .second-section {
     flex-basis: 20%;
-    background: url(/img/alessi.jpg) no-repeat #cecece;
+    background: url(img/alessi.jpg) no-repeat #cecece;
     background-position: 0% 50%;
     height: 300px;
 }
