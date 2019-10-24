@@ -126,5 +126,5 @@ Animal.prototype.help = function () {
   )
 }
 
-const animal = new Animal('Tim')
+const animal = new Animal('Galaktion')
 animal.help()
